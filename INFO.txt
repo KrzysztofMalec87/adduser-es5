@@ -1,0 +1,2 @@
+1. you need a php environment to run the site, you can use for example wamp, xamp
+2. programing languages used are: php, JavaScript, jQuery ( olny ajax to send requests )
